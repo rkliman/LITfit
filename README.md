@@ -3,6 +3,7 @@ A wearable music visualizer with built in haptics. This project is built using 2
 
 ## Contributors
 Randall Kliman
+
 Guruganesh Rajaraman
 
 ## Project Structure
