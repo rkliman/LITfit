@@ -26,8 +26,16 @@ These libraries are needed to run the code, they can be added via the Arduino li
 
 ## Circuit Diagram
 Currently 2 Seeeduino Xiaos are needed to run both the belt and the jacket. This is due to speed constraints from writing to the LEDs. In the future, only one Xiao may be needed.
+![LITFit_bb](https://user-images.githubusercontent.com/67759534/116934638-3a847180-ac33-11eb-8b09-79ad2933950b.png)
 
 ## Pictures
+Front
+<img src="https://user-images.githubusercontent.com/67759534/116935212-09f10780-ac34-11eb-830c-39a3c5612909.jpg" width="400"/>
+
+Back
+<img src="https://user-images.githubusercontent.com/67759534/116934733-59830380-ac33-11eb-8b60-180da0d7dc5b.jpg" width="400"/>
+
+
 
 ## Demonstration
 
